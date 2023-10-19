@@ -1,5 +1,5 @@
 // /pages/api/quiz
-
+//test
 const quiz = [
     {
       question: 'Spørsmål 1',
